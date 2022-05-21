@@ -1,5 +1,6 @@
 # Taller 1
 - Jonathan Emilio Brito Avilez
+- ID No.502196
 - jonathan.brito@upb.edu.co
 #### En este codigo se dara a presentar el como crear una cancion de regueton tulizando:
 - Genereador de numero aleatorio
